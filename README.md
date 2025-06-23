@@ -1,2 +1,4 @@
 # Wine-Quality-Prediction-on-Kaggle
-Kaggle competition to predict the quality of wine on a scale of 3 to 8 based on its chemical properties
+#### Predicting the quality of wine on a scale of 3 to 8 based on its chemical properties.
+#### Kaggle competition link : https://www.kaggle.com/competitions/wine-quality-prediction-ordinal-regression-challe
+
